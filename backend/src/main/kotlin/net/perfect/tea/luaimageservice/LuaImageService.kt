@@ -20,7 +20,7 @@ import net.perfect.tea.luaimageservice.backend.routes.PostBackendRoutes
 
 class LuaImageService {
     private val logger = KotlinLogging.logger {}
-    // O arquivo que você pediu para adicionar
+    
     private val imageInfosFile = File("./image-infos.json")
     private val storageDir = File("uploads")
 
