@@ -7,7 +7,7 @@ version = "1.0-SNAPSHOT"
 
 repositories {
     mavenCentral()
-    maven("https://repo.perfecttea.powered.net")
+    
 }
 
 dependencies {
